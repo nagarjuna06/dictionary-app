@@ -1,5 +1,5 @@
 # Dictionary App
-visit [Dictionary App](https://nagarjuna06.github.io/dictionary-app)
+Live Link: [Dictionary App](https://nagarjuna06.github.io/dictionary-app)
 ## Introduction:
 The Dictionary app is designed to help users find the definitions, synonyms, and antonyms of words. It includes features such as a search bar, audio pronunciation, examples, and definitions.
 
